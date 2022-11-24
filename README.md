@@ -1,3 +1,12 @@
+# **TRABAJO FINAL**
+
+![](https://estudiaperu.pe/wp-content/uploads/2021/04/UPC-carreras-para-gente-que-trabaja.png)
+
+Curso: 
+* Fundamentos de Data Science
+
+Profesor/a:
+* Nérida Isabel Manrique Tunque
 ## Objetivo del proyecto
 * El principal objetivo de este trabajo es hacer un analisis exploratorio del conjunto de datos "bike_buyers". Con este dataset se busca: Cargar el conjunto de datos, inspeccionar los datos, hacer el procedimiento del pre-procesado y hacer la visualizacion.
 * Luego, el grupo brindará información útil en base a una serie de preguntas y desarrollar un modelo, buscando predecir si un cliente comprará o no una bicicleta.
